@@ -1,9 +1,5 @@
 # fetches-stock-data
 The script fetches intraday stock data using the API.
-
-
-Certainly! Let's break down the important information about the provided trading-related Python script:
-
 Purpose:
 The script fetches intraday stock data using the Alpha Vantage API.
 
